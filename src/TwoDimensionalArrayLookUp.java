@@ -1,4 +1,5 @@
-public class TwoDimensionalArrayLookUp {//二位数组查找
+//二维数组中的查找
+public class TwoDimensionalArrayLookUp {
     public static boolean Find(int target, int[][] array) {
         for(int i=0;i<array.length;i++){
             for(int j=0;j<array[i].length;j++){
