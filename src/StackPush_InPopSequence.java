@@ -30,7 +30,7 @@ public class StackPush_InPopSequence {
                     }
                 }
             }
-            return true;
+            return t
         }
     }
 }
