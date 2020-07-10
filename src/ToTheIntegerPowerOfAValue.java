@@ -4,6 +4,7 @@
 //保证base和exponent不同时为0
 public class ToTheIntegerPowerOfAValue {
     public double Power(double base, int exponent) {
+
         return Math.pow(base,exponent);
     }
 }
