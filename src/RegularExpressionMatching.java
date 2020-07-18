@@ -9,7 +9,6 @@ public class RegularExpressionMatching {
         }
         return match(str,0,pattern,0);
     }
-
  /* 前提：当pattern遍历完，return取决于str是否遍历完，str恰好遍历完才返回true，再接下来讨论
   *  *  1.若当前字符存在下一个字符，看下一个字符是否是 '*'，如果是，有2种情况
   *  *      一：当前匹配
