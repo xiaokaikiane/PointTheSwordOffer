@@ -1,4 +1,5 @@
 //二叉树的镜像
+//操作给定的二叉树，将其变换为源二叉树的镜像。
 public class TheMirrorImageOfABinaryTree {
     static class TreeNode {
         int val = 0;
